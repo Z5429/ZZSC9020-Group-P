@@ -1,4 +1,4 @@
-# Welcome to ZZSC9020 GitHub repository for group Group P
+# Welcome to ZZSC9020 GitHub repository for group P
 
 This GitHub repository is the main point of access for students and lecturers of the ZZSC9020 capstone course. 
 
