@@ -15,7 +15,7 @@ Complete the information below regarding your group.
 
 ### Brief project description
 
-Describe your project in one paragraph.
+This project produces improved predictions for electricity load forecasts.
 
 ## Repository structure
 
