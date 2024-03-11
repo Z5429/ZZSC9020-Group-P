@@ -17,7 +17,7 @@ Complete the information below regarding your group.
 
 This project produces improved predictions for electricity load forecasts.
 
-## Repository structure
+## Repository structure - 11032024
 
 The repository has the following folder structure:
 
