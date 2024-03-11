@@ -15,7 +15,7 @@ Complete the information below regarding your group.
 
 ### Brief project description
 
-This project produces improved predictions for electricity load forecasts.
+This project produces improved predictions for electricity load forecasts in the NEM.
 
 ## Repository structure - 11032024
 
