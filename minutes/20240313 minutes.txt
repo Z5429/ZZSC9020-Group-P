@@ -1,0 +1,47 @@
+Meeting 13/3/2024 
+Start 8:00 pm
+
+Attendees:
+Sreedevi Nandakumar
+John D'Souza
+Liam Walsh
+
+Notes:
+
+John gave presentation on use of issues and projects within Github
+and how the team can utilize them for the project. He will look at access from the Group repository.
+
+Liam agreed to write minutes.
+
+Discussion of questions for agenda
+1. How does convenor read out information. Are folders the only places where we will be marked form.
+2. Is scope of our work enough or is there an expectation of more.
+3. Initial report - How specific. Down to numbers detail or a synopsis of what we will domplete.
+
+Sreediva to start report in reports folder. John and Liam to add paragraphs on literature that lead to our proposal.
+
+Project focus
+Will Australia meet demands for Net zero emission economy.
+This will focus on given data (energy required + Temp) adding data from solar energy takeup for last 10 years and population changes.
+We will look at each state seperately.
+We will create serveral models (Neural Networks, regression models and others to find what we consider the best model).
+We will create synthetic data to test future scenarios in the chosen model. 
+
+Sreediva booked meeting with Rohit. Set for Mon 18 Mar at 3.30pm.
+
+End of meeting.
+
+
+
+To Do:
+John : Get project into ZZ9020 Group P folder.
+John: Look into creating Gantt charts in new project that can be added to repository.
+Liam: To write minutes.
+Sreediva: Overall control of report (Assessment 1A).
+Liam and John and Sreediva: start writing report paragraphs.
+Liam: Get solar energy data.
+John: Get data on fossil energy changes over time (closures).
+Liam: Write Agenda
+
+
+Next meeting Fridat 5:00pm
