@@ -1,0 +1,38 @@
+Minutes: 15/03/2024
+
+Between: 5.00PM to 6.00PM
+
+Attendees:
+Sreedevi Nandakumar
+John D'Souza
+Liam Walsh
+
+John booked appointment with lecturer:
+•	Week 2 meeting with Sonit Singh - Friday the 22nd 6.00pm
+•	Week 3 meeting with Sonit Singh - Friday the 29th 6.00pm
+
+The team discussed the project plan that needs to be submitted on Tuesday the 19th. The team also discussed questions for Rohitash Chandra before our meeting on Monday the 18th of March.
+Additional question to be included in the agenda for Monday the 18th:
+1)	Should we concentrate on NSW data, or do we need to investigate other states as well?
+2)	We need to get an understanding of the details that need to be included in the final report. 
+3)	When it comes to a group of 3 people – do we need to complete a 35 page report?
+4)	Do we need to include reference to the data in the project plan?
+Liam has completed two paragraphs for the project plan and has already saved it in the folder for Sree to collate.
+•	Liam has collected quarterly data from the Bureau of Statistics.
+•	Liam also downloaded data from Team energy regulator all installations – MW added for solar energy in 2001.
+
+Project Discussion 
+Change the data into daily demand and we can do an analysis on how we model the testing and preparation.
+John: Used case demand is quite prominent in the industry today. People are using; demand response – when we know if the demand is very high, they try to reduce the demand. They signed up with certain big energy consumers in the industries and with groups of companies. What happens on a hot day is as the demand increases, the retailers who have relationships with the larger consumers of electricity ping these companies, they will take control of some part of their warehouse and will switch off the electricity. If we these large consumers reacted to their pings and helped reduce the energy consumption for the day; then the retailers will provide a price reduction to these companies. 
+From a project perspective- we need a model that accurately predicts the demand because of this fluctuation in the market.
+We also discussed the current available data.
+1)	Temperature – 30 minutes interval on a given day from 2010.
+2)	Total demand – for every 30 minutes from 2010.
+3)	Forecast demand – for every 30 minutes on a given day from 2016.
+John suggestion - create a model that predicts the demand, and we will compare the accuracy of our model with the available data on Forecast demand from 2016 (3).
+To do: 
+John - To investigate the project issue with GitHub.
+John – To add a Gannt Chart and skeleton of the Project Plan.
+Liam - Get the sorted data into the right format. Liam to share the data from the Bureau of statistics and Team Energy with everyone in the team.
+Sree - To work on the project plan initial draft and share it with the team by Sunday afternoon.
+
