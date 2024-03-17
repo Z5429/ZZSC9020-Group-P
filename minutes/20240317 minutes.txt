@@ -1,0 +1,42 @@
+Minutes of the meeting
+Minutes: 17/03/2024
+Between: 6.00 PM to 8.00 PM
+
+Attendees:
+Sreedevi Nandakumar
+John D'Souza
+Liam Walsh
+
+Discussion: Which view of the project plan we need to put it in the report?
+John said we can update excel every week to update the project plan.
+John:  Explained the project plan that he put together
+Data – what data actually covers?
+Discussed Mind Map and developed a mind map.
+
+Exploratory Data Analysis for Week 2:
+John – Temperature file.
+Sree – Demand file, Forecast demand file. Timings relate to forecast and demand. Interesting things that we can find in the data.
+Liam – Ancillary datasets
+
+Include in the agenda to be discussed for tomorrow:
+
+Do we need to be specified each tasks we are planning to do in the project plan?
+We checked the minutes of the meeting to discuss the pending tasks.
+
+Discussed project plan submission.
+
+End Game: we need to explore the model that gives us a best forecast?
+How forecasting is affected by new player in the market? Based on inputs- are driven by population increase, inclusion of energy resources.
+This particular forecasting is to look at the short term forecasting demand.
+
+We have decided to use Jupyter notebook.
+Project Management (Issues and Planning)
+
+To do
+
+John – work on Introduction and Motivation, to upload the project plan to the shared files (1/2 page), Final edit of the document before submission.
+Sree – Work on literature review, Liam has added 2 pdf files to the folder (1/2 page)- to draw mind map in Lucid chart.
+Liam – Methods and software and data description (1 page)
+
+
+
