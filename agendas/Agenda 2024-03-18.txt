@@ -4,5 +4,7 @@
 
 3. Initial report - How specific. Down to numbers detail or a synopsis of what we will complete.
 	Does the report include references, mind maps and gantt charts in the 3 pages.
+	More info in later gantt chart objects.
+
 	
 4. Should we concentrate on NSW data, or do we need to investigate other states as well?
