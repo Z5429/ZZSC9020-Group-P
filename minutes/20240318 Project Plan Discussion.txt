@@ -1,0 +1,27 @@
+Minutes of the meeting
+Minutes: 18/03/2024
+Between: 7.00 PM to 8.30 PM
+
+Attendees:
+  Sreedevi Nandakumar
+  John D'Souza
+  Liam Walsh
+
+John went through the project plan. He discussed about the study conducted by McKinsey & Company regarding how electricity demand is plateauing due to electrification and energy market shift to renewable sources of energy. We modified our current project plan and assigned pending tasks among group members. 
+Also discussed, Personal Implementation Checklist.
+
+To do
+John : 
+Add McKinsey & Company’s report reference to paragraph 1, Modify second paragraph of the Introduction and Motivation section. Create a table to list all activities.
+Complete personal implementation checklist
+Ping Liam after completing the discussed changes in the project plan and skimming through the report one last time.
+
+Sree : 
+Add references to the rationale behind selecting the models.
+Complete personal implementation checklist
+Ping Liam after completing the discussed changes in the project plan and skimming through the report one last time.
+
+Liam : 
+Convert software & data sections to tables.
+Complete personal implementation checklist
+Submit the Project Plan to the Assignment section before 5 PM tomorrow after skimming through the report.
