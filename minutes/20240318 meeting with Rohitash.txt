@@ -1,0 +1,771 @@
+Minutes of the meeting
+18th March 2024
+From 3.00 PM to 4.00 PM
+
+Attendees
+Rohitash Chandra
+Sreedevi Nandakumar
+John D'Souza
+Liam Walsh
+
+
+
+0:0:0.0 --> 0:0:1.80
+Rohitash Chandra
+Anyways so.
+0:0:4.350 --> 0:0:4.510
+Rohitash Chandra
+Have.
+0:0:0.510 --> 0:0:7.150
+Liam Walsh
+OK. What's it been? If anybody else wants to add some ask rude or something on top of that, I think that's a pretty good.
+0:0:7.930 --> 0:0:12.490
+Sreedevi Nandakumar
+Sorry, so we need to define another problem, more specifically, right?
+0:0:12.60 --> 0:0:13.980
+Liam Walsh
+I look it's it's, it's not so much.
+0:0:26.40 --> 0:0:26.440
+Sreedevi Nandakumar
+OK.
+0:0:13.590 --> 0:0:27.510
+Rohitash Chandra
+Yeah, but you have three page proposal, right? So you don't want too many goals. Basically, I would be like, OK, maybe comparison of models and comparison of paradigms could be OK gold, you know.
+0:0:26.850 --> 0:0:28.330
+John D'Souza
+Hmm so.
+0:0:27.550 --> 0:0:34.150
+Rohitash Chandra
+OK, sets of gold and you can ask some questions around it. You know if you want.
+0:0:36.990 --> 0:0:43.390
+John D'Souza
+But is it? Is it possible Rohit then that we refine our questions over the next couple of weeks as well like?
+0:0:44.830 --> 0:0:44.870
+John D'Souza
+For.
+0:0:45.840 --> 0:0:47.680
+John D'Souza
+So we could be a bit more generic.
+0:0:40.760 --> 0:0:47.800
+Rohitash Chandra
+Questions over the next couple of weeks. Yeah, yeah, yeah. You. I mean, you know, you're proposing.
+0:0:52.300 --> 0:0:52.820
+John D'Souza
+OK.
+0:0:55.780 --> 0:0:56.940
+John D'Souza
+Yeah, yeah.
+0:0:49.10 --> 0:0:57.250
+Rohitash Chandra
+Your proposal can slightly change your goals, but it's a very short project, right? So yeah, I mean.
+0:1:6.60 --> 0:1:6.180
+John D'Souza
+Hmm.
+0:0:58.880 --> 0:1:28.760
+Rohitash Chandra
+I mean, frankly, I mean when they told me that these guys are doing project in six weeks, I was like, what the hell is going on in this city? You know, what's wrong with you people? But then people started accepting that idea. Right. And it's a short six weeks, and then they're like, no, but it's a group work and students are not allowed to do anything else but just work on this for 2025 hours a week. Then I was like, OK, fine. And couple of years back, I was doing this supervision.
+0:1:29.560 --> 0:1:39.40
+Rohitash Chandra
+For the last couple of years then we found some really interesting reports. At the end of the six weeks which which caught me quite, you know, a surprise, but yeah.
+0:1:39.880 --> 0:2:8.0
+Rohitash Chandra
+It's all about the proposal and if you change too much in the proposal then you won't be able to have interest in your part. So that's why you need to have some at least two strong concrete goals. So you could say that, OK, there's a third one, but at the end you could say, OK, this goal we were not able to fulfil this goal in the directions of future research. People always have some negative results around there.
+0:2:19.860 --> 0:2:20.260
+John D'Souza
+Yes.
+0:2:22.620 --> 0:2:22.740
+Sreedevi Nandakumar
+It.
+0:2:9.360 --> 0:2:24.960
+Rohitash Chandra
+Stuff like that. But The thing is, like your project proposal or plan should define what each Member is doing in every week of the implementation, including your week one. Actually, what you have done and what we are going to do.
+0:2:25.580 --> 0:2:35.180
+Rohitash Chandra
+And how those I know the gang chat or whatever type of company you wanna go, how does it actually?
+0:2:36.540 --> 0:2:37.100
+Rohitash Chandra
+Address the goal.
+0:2:38.430 --> 0:2:46.590
+John D'Souza
+So. So Rohit, on that note, what we've got is, so we've got, we've, we've prepared. I'm actually hearing my own echo.
+0:2:48.320 --> 0:2:50.560
+John D'Souza
+But So what we've got is.
+0:2:52.460 --> 0:3:25.260
+John D'Souza
+We we we've sort of had a had a project breakdown of tasks and stuff, right. So we've got it fairly detailed up to say next week about what what each each of us will be doing right first two weeks the the, the, the third week onwards we've got placeholders for sort of what we're trying to achieve definitely there right. But we haven't divid up tasks as to Sree, they will do this and Liam will will do this. What we've said is so we we've we've got milestones that said I could.
+0:3:26.280 --> 0:3:36.200
+John D'Souza
+Show it to you briefly if you want to. Gura, I want to know is is this going to be sufficient or do we need to like for example, I'll show you.
+0:3:37.900 --> 0:3:51.540
+Rohitash Chandra
+I'm in. Yeah, you don't need to have very technical, you know, workload goals in your proposal. Basically all you are having giving is like a paragraph where, like, you know again chart, something like that.
+0:3:51.740 --> 0:3:53.620
+John D'Souza
+Yeah. Yeah. So we have a.
+0:3:59.930 --> 0:4:1.130
+John D'Souza
+Mm hmm yeah.
+0:3:52.810 --> 0:4:9.10
+Rohitash Chandra
+Technical things are for you to discuss after like people like me exit the meeting amongst yourself. Like, OK, we. Yeah. Which each Member will what each Member will do for the next week. You know, like somebody you will need to say OK.
+0:4:13.420 --> 0:4:13.620
+John D'Souza
+Mm hmm.
+0:4:19.420 --> 0:4:19.540
+John D'Souza
+Hmm.
+0:4:10.930 --> 0:4:23.330
+Rohitash Chandra
+Somebody's doing deep learning models this and that. Somebody likes Python, so that person starts doing some of the implementation. You're sharing everything on GitHub, not you. That's the thing of the the project. It's all about.
+0:4:34.690 --> 0:4:35.50
+John D'Souza
+Yeah.
+0:4:39.520 --> 0:4:39.640
+John D'Souza
+Hmm.
+0:4:24.320 --> 0:4:48.0
+Rohitash Chandra
+You trying to, you know, divide your work and learn the skills. Learn the strength of your partner. Nobody's trying to prove anything here. What we're trying to do is utilise who is good in whatever they are good in and kind of tell that be friend to your partners, to your Members that hey.
+0:4:48.40 --> 0:4:52.320
+Rohitash Chandra
+I'm good in writing and let me just do the literature review, so you start. You put that as a task.
+0:4:52.310 --> 0:4:52.430
+John D'Souza
+Hmm.
+0:4:58.270 --> 0:4:58.470
+John D'Souza
+Mm hmm.
+0:5:9.880 --> 0:5:10.480
+John D'Souza
+OK.
+0:5:13.720 --> 0:5:17.440
+John D'Souza
+Hmm. Yeah. So. So no. Sorry.
+0:4:53.480 --> 0:5:19.360
+Rohitash Chandra
+And within a week, you show your Members that, hey, I have written this message to you guys when I read and edit and the coding person is like, hey, let me do the linear model and why don't somebody does the LSTM model something like that and then compare it. But these are some of the ways you could address this situation. Yeah. And if this is not a yeah. Sorry. Yeah.
+0:5:19.700 --> 0:5:21.420
+John D'Souza
+No, no, no. Go ahead. Go ahead. Go ahead. Sorry.
+0:5:27.850 --> 0:5:27.970
+John D'Souza
+Hmm.
+0:5:21.430 --> 0:5:44.550
+Rohitash Chandra
+No, I just wanted to say this is not a cause to to learn thing and new things. You may learn little bit of new things like somebody wants to do at this in overleaf or there's a number of things. This is the project causes for you to apply existing things, right? So but unfortunately I would be frank that the UNSW don't really have that much of.
+0:5:46.230 --> 0:5:50.950
+Rohitash Chandra
+Writing skills causes actually and scientific writing causes so.
+0:5:51.650 --> 0:5:59.170
+Rohitash Chandra
+Students struggle in the writing bit so, and hence I also shared one of the videos I made about how to write basically.
+0:5:59.730 --> 0:6:0.970
+John D'Souza
+Hmm, OK.
+0:6:0.830 --> 0:6:5.990
+Rohitash Chandra
+Working on that further to make that into our but yeah, yeah.
+0:6:7.500 --> 0:6:14.260
+John D'Souza
+So as a I'll just share this briefly with you Rohit, just to get your feet, so for example.
+0:6:8.250 --> 0:6:14.730
+Rohitash Chandra
+So I thought I just share with you. OK, so for example.
+0:6:15.950 --> 0:6:18.910
+Rohitash Chandra
+This is this is just a Excel exporter so.
+0:6:15.300 --> 0:6:50.380
+John D'Souza
+This is this is just an Excel export of our plans. Our plan we're managing in GitHub using issues and projects, right. And I just exported it. So to give you an idea like our plan looks like this, we we for the first couple of weeks like what we've done is we've allocated each other to various tasks. Some are where we're all three are doing bits of it. Some are where one of us is doing. You know we've said Sridev we'll do this. John will do this that, that, that. So we haven't. So what our plan currently is we've got tasks allocated in various phases of the project.
+0:6:51.180 --> 0:6:57.740
+John D'Souza
+But we are sort of OK till next week where we've said next week we each of us will focus on a certain thing, right.
+0:6:59.100 --> 0:6:59.860
+John D'Souza
+But then.
+0:7:1.260 --> 0:7:16.540
+John D'Souza
+We expect to to update the the the plan next week with further details about what people will do in the following weeks. So is that acceptable or are you expecting us to have allocated tasks all the way down for all six weeks right now?
+0:7:16.310 --> 0:7:24.750
+Rohitash Chandra
+Yeah, it should be. No. So this, I don't think it will fit in your proposal in any way. Right. The only way you can fit it is.
+0:7:23.770 --> 0:7:24.930
+John D'Souza
+There's an image here.
+0:7:26.270 --> 0:7:34.430
+Rohitash Chandra
+Yeah, you need to have it as an image. And yeah, there's some tutorials about how to do that, and you may have to probably.
+0:7:38.680 --> 0:7:38.720
+John D'Souza
+H.
+0:7:35.950 --> 0:7:41.230
+Rohitash Chandra
+It's too detailed. That means too many lines. You can't fit all those things, right? So.
+0:7:41.890 --> 0:7:45.250
+Rohitash Chandra
+Yeah, you have to probably summarise this to.
+0:7:46.80 --> 0:7:46.480
+John D'Souza
+The.
+0:7:48.570 --> 0:7:48.850
+John D'Souza
+OK.
+0:7:47.270 --> 0:7:54.830
+Rohitash Chandra
+Where they do I mean this is OK for your but understanding but to.
+0:7:59.810 --> 0:8:0.290
+John D'Souza
+No.
+0:7:56.150 --> 0:8:0.350
+Rohitash Chandra
+Put it if not again chart and it will take too much.
+0:8:2.110 --> 0:8:7.750
+Rohitash Chandra
+But on the on the other hand, you can keep it in the appendix. You can put this in the appendix.
+0:8:9.450 --> 0:8:10.770
+Rohitash Chandra
+Because there's no such proposal.
+0:8:8.410 --> 0:8:36.970
+John D'Souza
+OK, so So what I've what I've seen Rohit is. So what we've done is we we broadly like if you can see the the the sort of pseudogen chart is on the left side of this, right. So the we what we did was we just said that we're going to do our sort of project management scheduling work using GitHub, right. So we've got GitHub issues when we've got GitHub and and it's all managed within a GitHub project. So GitHub provides us features, right.
+0:8:37.290 --> 0:8:38.650
+John D'Souza
+Now when it comes to.
+0:8:38.320 --> 0:8:40.240
+Rohitash Chandra
+I was still actually.
+0:8:40.50 --> 0:8:40.370
+John D'Souza
+Actually.
+0:9:2.550 --> 0:9:2.630
+Rohitash Chandra
+Hi.
+0:8:42.330 --> 0:9:7.930
+John D'Souza
+GitHub gives a very clunky Gantt chart right? And they even have some add on tools like we've tried out the call Gantt, Gantt lab or whatever, but that that randomly sorts the issues in a in a in a decent way. So that's why we'll be, I don't know what the expectation is like for a Gantt chart I've.
+0:9:8.570 --> 0:9:15.130
+Rohitash Chandra
+We don't want complicated or comprehensive gunshot, right? So I mean at the we need to be very, very.
+0:9:13.790 --> 0:9:25.990
+John D'Souza
+So I can summarise this but yeah, so so broadly what we've done is like where where we've divided up our activities into the typical you know, the the crisp DM phases. So we've got like.
+0:9:27.690 --> 0:9:40.250
+John D'Souza
+This is a high these are the high level phases. You could say, right? And we won't be doing a deployment. So what we've said is our deployment is basically the finalisation of our report, right.
+0:9:42.940 --> 0:9:45.260
+Rohitash Chandra
+I couldn't put.
+0:9:48.660 --> 0:9:51.220
+Rohitash Chandra
+The activity.
+0:9:41.700 --> 0:9:53.180
+John D'Souza
+So I could put a Gantt chart at that high level to say, you know when these activities, but if you want to see assignees and stuff activities, this was the sort of.
+0:9:53.640 --> 0:9:56.800
+Rohitash Chandra
+Yeah, I mean that, I mean.
+0:9:58.560 --> 0:9:59.920
+John D'Souza
+'Cause I have nifty like.
+0:10:0.10 --> 0:10:2.290
+Rohitash Chandra
+We need, I mean to give a whole project.
+0:10:7.80 --> 0:10:7.440
+John D'Souza
+Yeah.
+0:10:9.890 --> 0:10:10.730
+John D'Souza
+Yeah. OK.
+0:10:3.970 --> 0:10:19.850
+Rohitash Chandra
+Timeline. You don't really need a chart necessarily. You can even, yeah, show it as a table. Basically, it's just. Yeah, it's just, yeah, that it's not. Does it explicitly say in the proposal to give the chart? No, it just says a timeline, right.
+0:10:21.570 --> 0:10:28.450
+Rohitash Chandra
+It says a list of they want a list of activity, yes, with a, with assignees and yeah, so.
+0:10:21.980 --> 0:10:30.740
+John D'Souza
+This to they want a list of activities with a, with assignees, and, and they say if possible again chart.
+0:10:35.200 --> 0:10:35.800
+John D'Souza
+OK, OK.
+0:10:31.200 --> 0:10:39.360
+Rohitash Chandra
+Yeah. So this part you can put it in the appendix as it is and then summarise view and.
+0:10:38.820 --> 0:10:39.420
+John D'Souza
+OK.
+0:10:41.540 --> 0:10:41.980
+Rohitash Chandra
+OK, better.
+0:10:40.830 --> 0:10:42.390
+John D'Souza
+OK, fair enough. Thank you.
+0:10:43.990 --> 0:10:45.110
+John D'Souza
+You can do that too.
+0:10:51.230 --> 0:10:51.390
+John D'Souza
+OK.
+0:10:53.980 --> 0:10:57.60
+Rohitash Chandra
+What they needed to make a patrol.
+0:10:52.790 --> 0:10:57.190
+John D'Souza
+So I think what we need is to be a bit more clearer on.
+0:10:59.360 --> 0:10:59.600
+Rohitash Chandra
+Public.
+0:11:9.540 --> 0:11:9.740
+Rohitash Chandra
+Yeah.
+0:11:12.700 --> 0:11:13.20
+Rohitash Chandra
+You know.
+0:10:58.260 --> 0:11:23.860
+John D'Souza
+I'll go a goal and questions are begin to do right because I I don't think we reached in our discussions a level of maturity to say you know to be as specific as to say that you know in literature like we gave that example that lstns have been used you know to to some extent in, in, in load forecasting environments.
+0:11:25.540 --> 0:11:33.140
+John D'Souza
+But but the data sets have been, you know, American or whatever. And we want to try it out this way, I don't think.
+0:11:33.340 --> 0:11:34.20
+John D'Souza
+I don't think we've.
+0:11:33.690 --> 0:11:34.970
+Rohitash Chandra
+I don't think we as well.
+0:11:37.920 --> 0:11:44.40
+Rohitash Chandra
+Return back to the back level of researcher so we don't have the source to say the level of difficulty so.
+0:11:37.220 --> 0:11:47.340
+John D'Souza
+We've done that, that level of research, right, like so we we do have research to say these are the typical types of models that have been used and we are sort of proposing.
+0:11:52.610 --> 0:11:52.890
+Rohitash Chandra
+Problem.
+0:11:49.260 --> 0:12:4.900
+John D'Souza
+We thought to be position our problem more around like something like how like forecasting of electricity is is is demand is is complicated.
+0:12:5.990 --> 0:12:6.870
+John D'Souza
+Because of the.
+0:12:6.790 --> 0:12:9.830
+Rohitash Chandra
+Because it's a growing.
+0:12:8.570 --> 0:12:13.570
+John D'Souza
+Growing up, So what we thought was something like this that that.
+0:12:16.480 --> 0:12:17.520
+John D'Souza
+Oh, OK, OK.
+0:12:11.510 --> 0:12:19.510
+Rohitash Chandra
+Something like that. Yeah. Yeah, it's fine. I would just giving an example, you can have those things as.
+0:12:21.290 --> 0:12:23.730
+Rohitash Chandra
+Like a technical motivation, you could have more of.
+0:12:22.940 --> 0:12:28.780
+John D'Souza
+Yeah, for business here. OK. So what we were saying? Yeah. OK.
+0:12:26.0 --> 0:12:31.600
+Rohitash Chandra
+For business facilities or climate change perspective wire doing it.
+0:12:35.60 --> 0:12:35.700
+John D'Souza
+OK.
+0:12:33.240 --> 0:12:37.560
+Rohitash Chandra
+If you have better forecast, you're using less renewable energy, you could say.
+0:12:39.320 --> 0:12:40.480
+Rohitash Chandra
+Yeah. So.
+0:12:41.830 --> 0:12:42.390
+John D'Souza
+OK.
+0:12:42.680 --> 0:12:45.0
+Rohitash Chandra
+It's it's all OK. Yeah, there's many ways.
+0:12:44.40 --> 0:12:47.200
+John D'Souza
+OK, OK, you can. OK.
+0:12:46.490 --> 0:12:48.490
+Rohitash Chandra
+You can, yeah.
+0:12:55.90 --> 0:12:56.370
+Rohitash Chandra
+So we were thinking.
+0:12:49.460 --> 0:12:57.180
+John D'Souza
+OK, I guess so. So we'll see what what feedback we get on our proposal. So we we were thinking more like Liam mentioned.
+0:12:58.610 --> 0:13:0.330
+John D'Souza
+On on the idea of seeing.
+0:13:1.670 --> 0:13:5.590
+John D'Souza
+Of of demonstrating, if at all you know whether.
+0:13:8.490 --> 0:13:14.890
+John D'Souza
+The introduction of the the growing introduction of distributed energy.
+0:13:18.230 --> 0:13:18.430
+Rohitash Chandra
+That.
+0:13:17.430 --> 0:13:19.430
+John D'Souza
+Systems is.
+0:13:19.430 --> 0:13:19.550
+Rohitash Chandra
+Yes.
+0:13:21.650 --> 0:13:23.970
+Rohitash Chandra
+Yeah, sure. Nothing.
+0:13:25.530 --> 0:13:26.530
+Rohitash Chandra
+I have this price and.
+0:13:44.170 --> 0:13:44.330
+Rohitash Chandra
+OK.
+0:13:22.590 --> 0:13:48.910
+John D'Souza
+Shows us any has impacted demand like the fact that there's growing population is one thing, but then there's also from the point of view of the people managing the grid, right, we the what's, what's, what's making the predictability more complex we feel is potentially the fact that people are actually going off the grid.
+0:13:50.290 --> 0:13:51.50
+John D'Souza
+Because.
+0:13:53.230 --> 0:13:53.470
+Liam Walsh
+Hi.
+0:14:1.590 --> 0:14:1.910
+Liam Walsh
+Jen.
+0:13:52.300 --> 0:14:3.900
+John D'Souza
+So so as as pop population expands, people are going off the grid by by because not through through some renewable energy sources, but.
+0:14:4.820 --> 0:14:10.660
+John D'Souza
+Do we see from data sets any trends or whatever I don't know.
+0:14:11.960 --> 0:14:12.120
+John D'Souza
+Oh.
+0:14:13.370 --> 0:14:27.810
+Liam Walsh
+Radish if. If I am correct and well, it's hard in the meeting. It's you're more worried about that. We've tested different data science principles with the data we've we have more than what the data will come up with at the end.
+0:14:27.30 --> 0:14:27.990
+John D'Souza
+Will tell us.
+0:14:29.610 --> 0:14:33.10
+Liam Walsh
+Is this project more bit more of going to say that?
+0:14:33.870 --> 0:14:48.430
+Liam Walsh
+Well, you know, you went talking results, but we we want you to look at what you were saying as the best data science methods to get to the results through LTS. I'm short. I remember you just said Acnn network to the same data.
+0:14:45.350 --> 0:14:56.710
+Rohitash Chandra
+Sorry, I'll, I'll, I'll, I'll let's close out microphone then. I can't hear Liam actually, so I just switch my off my microphone in. Somebody can repeat me.
+0:14:56.810 --> 0:14:57.210
+Liam Walsh
+OK.
+0:14:59.30 --> 0:14:59.870
+Liam Walsh
+Can you hear me now?
+0:15:1.990 --> 0:15:14.590
+Liam Walsh
+So yes, the the question is we have a set of theres and we have a a plan overall, but what the project is looking for is the methods researching the methods of which we use to run those models.
+0:15:20.840 --> 0:15:21.40
+John D'Souza
+Mm hmm.
+0:15:16.320 --> 0:15:41.680
+Liam Walsh
+As opposed to what the end result of any model would actually be is. That's generally how you're you see this going. So it's not so much whatever end products we get, it's that we said we've we wanted to test this particular scenario. We picked these methods because we've researched and they said that the this particular LTLSTM is the best method for what we think we're achieving are convolution networks or whatever.
+0:15:43.40 --> 0:15:49.560
+Liam Walsh
+And the research is how well the the model go as opposed to what the end result is.
+0:15:50.900 --> 0:16:5.460
+Rohitash Chandra
+Yes, you're not supposed to basically beat whatever the predictions are from the market regulator, right? Because they it's a multimillion dollar industry where they, they have people working on the.
+0:16:3.970 --> 0:16:8.450
+Liam Walsh
+Yes. Wait, if we if I take it, if we beat them, we can start up our own company.
+0:16:10.650 --> 0:16:10.730
+John D'Souza
+Mm.
+0:16:8.810 --> 0:16:19.690
+Rohitash Chandra
+Yeah, exactly. So. So it's a multi $1,000,000 industry and if people who are doing this for years or decades, right, so and they have.
+0:16:18.740 --> 0:16:30.20
+Liam Walsh
+But when you're looking when you're looking at well, at the end of the day, it's America. When you're looking at American this, what you're looking at was all the exam, this particular model, this is going to examine. This is the result.
+0:16:31.790 --> 0:16:32.390
+Liam Walsh
+Sorry for that.
+0:16:34.490 --> 0:16:38.130
+Liam Walsh
+Supposed to get your children to stay like more than the end result.
+0:16:38.750 --> 0:16:40.630
+Rohitash Chandra
+Did you hear hear leader?
+0:16:39.980 --> 0:16:44.900
+John D'Souza
+No, Liam, you went offline. There's, I mean, your voice.
+0:16:43.970 --> 0:16:48.970
+Liam Walsh
+I copy my voice. Maybe. Maybe the microphones can't pick up micro action, so I don't know.
+0:16:50.360 --> 0:16:51.120
+Liam Walsh
+Can you hear me now?
+0:16:50.790 --> 0:16:58.750
+Rohitash Chandra
+The problem with teams actually usually zoom is better, but the university wants to use this. What can we do? Yeah.
+0:17:2.230 --> 0:17:5.310
+Liam Walsh
+To get back to the point or the point is when.
+0:17:5.650 --> 0:17:5.930
+Rohitash Chandra
+What?
+0:17:7.850 --> 0:17:15.370
+Liam Walsh
+You're marking this at the end. You're looking at us how we've approached it by getting the methods that we use as opposed to the end result.
+0:17:20.40 --> 0:17:21.160
+Liam Walsh
+He's crashed again, has he?
+0:17:20.730 --> 0:17:22.610
+John D'Souza
+Now, now, Rohit is frozen.
+0:17:24.530 --> 0:17:27.410
+Liam Walsh
+Is that what everybody got from this apart from myself or?
+0:17:28.850 --> 0:17:29.10
+Liam Walsh
+Yeah.
+0:17:27.150 --> 0:17:33.150
+John D'Souza
+Yeah, I think I think now I think what you're saying is true and and maybe Liam, we need to talk a bit after this, yeah.
+0:17:33.40 --> 0:17:33.200
+Rohitash Chandra
+Yeah.
+0:17:32.210 --> 0:17:41.610
+Liam Walsh
+So so the ideas of what should I should I build the stuff you got is the way we should be going. These are the research we did. These are the models we're gonna go for For these reasons.
+0:17:41.0 --> 0:17:42.160
+Rohitash Chandra
+Yeah. OK.
+0:17:41.740 --> 0:17:42.700
+Sreedevi Nandakumar
+Yeah, yeah.
+0:17:43.140 --> 0:17:43.900
+Liam Walsh
+Oh sorry I.
+0:17:43.610 --> 0:17:50.250
+Rohitash Chandra
+Yeah, yeah, yeah. You're you're you're thinking in the right, right track, Liam. I mean, we won't.
+0:17:54.450 --> 0:17:55.770
+Rohitash Chandra
+Yeah, no. Yeah.
+0:17:48.750 --> 0:17:57.630
+Liam Walsh
+Yes, I think I I think when we started off last week, we were a bit more about the end result and I think this is more about the modelling, the modelling process more than the end result.
+0:17:58.250 --> 0:17:59.490
+Rohitash Chandra
+Exactly, yes.
+0:18:0.0 --> 0:18:0.480
+John D'Souza
+OK.
+0:18:1.930 --> 0:18:2.210
+Liam Walsh
+OK.
+0:18:1.500 --> 0:18:2.740
+John D'Souza
+OK, that sounds good.
+0:18:4.130 --> 0:18:5.330
+John D'Souza
+Thank you for that. Yeah.
+0:18:6.850 --> 0:18:9.650
+John D'Souza
+Were there any other?
+0:18:9.690 --> 0:18:10.170
+John D'Souza
+Questions for.
+0:18:12.500 --> 0:18:12.540
+Rohitash Chandra
+I.
+0:18:8.940 --> 0:18:16.940
+Liam Walsh
+Well, the, the the last, the last question we had had to do with should we concentrate on NSW data, but I think that becomes a bit of relevant path for the conversation. Does it?
+0:18:18.880 --> 0:18:19.280
+Rohitash Chandra
+I mean.
+0:18:18.340 --> 0:18:20.340
+Liam Walsh
+Whatever module we take would be the model we go with.
+0:18:29.30 --> 0:18:29.550
+Liam Walsh
+I think you have.
+0:18:21.290 --> 0:18:29.730
+Rohitash Chandra
+Yeah, because that new Southwest data has the temperature values right? And the other thing is like, should you get more data?
+0:18:31.200 --> 0:18:36.720
+Rohitash Chandra
+And, but that's like getting outside of data. There's a lot of effort. You know how much time you use?
+0:18:37.380 --> 0:18:37.980
+Liam Walsh
+Yes, OK.
+0:18:38.690 --> 0:18:41.930
+Rohitash Chandra
+So I would be like because it's a short term project.
+0:18:43.610 --> 0:19:1.650
+Rohitash Chandra
+It's like if you don't get outside data, there's no requirement you will not use any marks or something. I would basically utilise whatever is there, you know, unless you really know. It's like the moment you talk about climate data. I mean, I also do machine learning climate.
+0:19:2.390 --> 0:19:2.510
+John D'Souza
+Hmm.
+0:19:3.490 --> 0:19:4.330
+Rohitash Chandra
+Research as well so.
+0:19:9.310 --> 0:19:10.430
+John D'Souza
+What is appropriate?
+0:19:5.640 --> 0:19:11.800
+Rohitash Chandra
+There's a lot of uh data out of there and what is appropriate to ask.
+0:19:18.890 --> 0:19:19.10
+John D'Souza
+Hmm.
+0:19:11.840 --> 0:19:37.0
+Rohitash Chandra
+And how it aligns with your, you know time zone timestamps for the problem that you have. So there are a lot of things and actually there are some inconsistencies in the data as well in there. So some people have found and we'll just take the data as it is and whatever inconsistencies and stuff it's just reported as a limitation.
+0:19:38.10 --> 0:19:44.370
+Rohitash Chandra
+The research you know, but tomorrow on Wednesday, basically you can ask Oliver.
+0:19:45.670 --> 0:19:56.430
+Rohitash Chandra
+Who is the the CEO of this company and we will be there for an hour to talk to you about the data problems implications.
+0:19:57.580 --> 0:20:0.500
+Rohitash Chandra
+So you cannot know this other data question, OK.
+0:20:1.740 --> 0:20:2.300
+John D'Souza
+OK.
+0:20:8.520 --> 0:20:9.120
+John D'Souza
+Yes.
+0:20:6.350 --> 0:20:12.190
+Rohitash Chandra
+I mean, it's good to attend that live so that you can ask questions rather than seeing a video recording or.
+0:20:13.550 --> 0:20:18.470
+Rohitash Chandra
+Questions or regards and you're like, oh, why didn't somebody else ask you?
+0:20:21.350 --> 0:20:23.710
+Rohitash Chandra
+That happens. Yep, she did we.
+0:20:24.60 --> 0:20:30.380
+Sreedevi Nandakumar
+Would you like us to specify what type of modelling are we using like long term or short term?
+0:20:34.510 --> 0:20:35.30
+Sreedevi Nandakumar
+OK.
+0:20:32.220 --> 0:20:39.100
+Rohitash Chandra
+Yeah, that's entirely up to you. But I, like you want to look go hourly basis or daily basis, right?
+0:20:38.760 --> 0:20:39.880
+Sreedevi Nandakumar
+Yep, Yep.
+0:20:41.220 --> 0:20:51.220
+Rohitash Chandra
+And I would. My advice is like try to do multi step ahead prediction because you can do more analysis on this on different steps how the.
+0:20:51.960 --> 0:20:54.240
+Rohitash Chandra
+Privacy is increasing, increasing stuff.
+0:20:55.280 --> 0:20:59.760
+Rohitash Chandra
+So it it does not it? You can decide if you want to go.
+0:21:3.510 --> 0:21:3.830
+Sreedevi Nandakumar
+OK.
+0:21:1.210 --> 0:21:5.370
+Rohitash Chandra
+Stepwise or day ways you know that's something for you to think about.
+0:21:6.40 --> 0:21:6.240
+Sreedevi Nandakumar
+Yeah.
+0:21:6.890 --> 0:21:8.170
+Rohitash Chandra
+The other thing is like.
+0:21:9.810 --> 0:21:21.690
+Rohitash Chandra
+Because it's anyways, it becomes a large model, a large data set. So because in so we try to visually use a smaller model, sometimes to smaller portion of the data.
+0:21:23.130 --> 0:21:28.730
+Rohitash Chandra
+So that we have we run the model 30 times different.
+0:21:28.770 --> 0:21:36.690
+Rohitash Chandra
+Experimental settings in the weights and biases of the neural network, the initial weights and stuff to get some sort of incidenties in the prediction.
+0:21:37.800 --> 0:21:38.760
+Rohitash Chandra
+So sometimes.
+0:21:39.990 --> 0:21:45.190
+Rohitash Chandra
+And if you do that, that is also can be a part of a goal or a partial goal.
+0:21:47.500 --> 0:21:52.980
+Rohitash Chandra
+This I mean, and there's a lot of machine learning is doing at.
+0:21:54.470 --> 0:21:59.350
+Rohitash Chandra
+Develop a model and you run it and you don't know how it will behave when you run it again.
+0:22:1.90 --> 0:22:6.10
+Rohitash Chandra
+But it's just so large the data set that you don't have the capacity to run that model again.
+0:22:7.390 --> 0:22:9.430
+Rohitash Chandra
+So resolve these issues.
+0:22:24.90 --> 0:22:25.490
+Sreedevi Nandakumar
+Only I'm gonna mute.
+0:22:27.460 --> 0:22:30.140
+Liam Walsh
+At this point, does anybody have any other questions? I'd like to ask.
+0:22:32.230 --> 0:22:38.190
+John D'Souza
+No, I I think I'm OK. I think we need to regroup after this and make sure we.
+0:22:37.460 --> 0:22:38.540
+Liam Walsh
+Yes, that's fine. That's fine.
+0:22:43.500 --> 0:22:43.820
+John D'Souza
+Yeah.
+0:22:37.440 --> 0:22:44.160
+Rohitash Chandra
+Yeah, you can take the rest of the session and just don't talk among yourself. What you're going to do in the coming week and.
+0:22:44.960 --> 0:22:45.560
+John D'Souza
+OK.
+0:22:44.840 --> 0:22:49.560
+Rohitash Chandra
+You know? Yeah, I'll be online if there's anything, just post it in the chat, eh?
+0:22:50.270 --> 0:22:51.390
+John D'Souza
+Thanks Robert.
+0:22:51.270 --> 0:22:53.670
+Rohitash Chandra
+Alright, take care. Bye bye. See you guys.
+0:22:52.290 --> 0:22:53.770
+John D'Souza
+Cheers. OK bye.
+0:22:53.700 --> 0:22:54.420
+Liam Walsh
+Thank you very much.
+0:22:54.860 --> 0:22:55.300
+John D'Souza
+Bye.
+0:22:54.820 --> 0:22:55.340
+Sreedevi Nandakumar
+Thank you.
+0:22:59.320 --> 0:23:0.360
+John D'Souza
+OK guys.
+0:23:1.420 --> 0:23:5.260
+Liam Walsh
+OK. Well listen, you may it may. It may sound like it.
+0:23:1.710 --> 0:23:8.350
+John D'Souza
+I I'll, I'll, I'll, I'll put the I'll put the recording off. OK, right now.
+0:23:10.140 --> 0:23:10.780
+John D'Souza
+Stopped.
