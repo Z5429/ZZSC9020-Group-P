@@ -1,0 +1,22 @@
+Minutes of the meeting
+21st March 2024
+Between 8.00 PM to 8.30 PM
+
+Attendees
+  Liam Walsh
+  Sreedevi Nandakumar
+  John D’Souza
+
+Discussed Oliver Nunn’s webinar.
+Another variable that he would consider would be Photo Voltaic Cells.
+Another question asked was about modeling – I probably wouldn’t use neural networks.
+John’s tip from work – There is this paper available on the internet from Monash Uni on the load forecasting model. They implemented this model and AEMO.
+Liam sent a message to Sonit that we are happy to include Mina Mariano in our group.
+Sonit’s meeting – We are starting our analysis now. 
+We will meet again on Sunday evening – at 6 PM 
+
+To do 
+
+Liam: Send agenda to Sonit, work on additional datasets vs demand
+John: Work on Demand vs Temperature
+Sree: Work on demand vs forecast
