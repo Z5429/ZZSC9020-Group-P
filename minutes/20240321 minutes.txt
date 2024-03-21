@@ -1,0 +1,33 @@
+Meeting 21/3/2024 
+Start 8:00 pm
+
+Attendees:
+Sreedevi Nandakumar
+John D'Souza
+Liam Walsh
+
+Notes:
+
+All agreed to havin Mina Mariano join the group.
+Liam agreed to write minutes.
+
+Discussion of questions for agenda meeting 22/3 with Sonit
+1. Template for 35 page report.
+2. Is it alright to use Word for the report. If Jupyter is used ofr developing, is this still alright?
+	Scientific report or code + report
+3. How much do we have to adhere to the project plan.
+
+
+All members will continue to look at import data. Check integrity, examine potential changes (consolidation, etc.)
+Will start discussion on the data in models on Sunday.
+
+End of meeting.
+
+
+To Do:
+John, Sreediva, Liam : Analyse raw data.
+Liam: To write minutes.
+Liam: Write Agenda
+
+
+Next meeting Sunday 6:00pm
