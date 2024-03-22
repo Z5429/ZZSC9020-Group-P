@@ -1,0 +1,52 @@
+Minutes of the meeting
+22nd March 2024
+Between 6.00 PM to 7.30 PM
+
+Attendees
+  Liam Walsh
+  Sreedevi Nandakumar
+  John D’Souza
+  Sonit Singh
+	
+
+What is the high-level goal?
+See over time what is the effect of Solar PV. Narrow down your focus – Energy load forecasting – big ecosystem; Within 4 – 5 weeks we can’t really work on the 
+	more than 1 year – long term
+Medium term – Weekly fortnightly and up to 1 year
+
+See seasonality – People wake up in the morning – Up to 9 AM to 2.00 PM less use of energy; 3 t
+
+Short term data – will be a good idea.
+How will temperature affect energy forecasting?
+How energy generated from the solar group panel will impact the energy forecasting?
+What should be the independent variables we need to implement 4 different models for this aspect of the model?
+Energy user need great forecasting
+Seasonality Sarima model
+Deep learning – model LSTM
+
+Long term load forecasting will be much harder to do in the given time frame. We might need to consider other factors. 
+	Temperature and environmental factors – BOM
+A goal could be- 
+  Whether temperature is a good predictor for load forecasting?
+  Initially perform data exploration, check trends – box plots, scatter plots.
+
+
+Good Jupyter story – Sonit will confirm it with other lecturers.
+
+Data driven prediction models of energy use of appliances in a low energy-house- An example of an article.
+
+When we see any data science project, we are interested in a good story. When we work in an industry, we need a good story around this. 
+
+Implement 2 or three models and fill in the time for data exploratory analysis.
+If there is a plot, do the commentary on the plot – Plot is an auxiliary tool to 
+
+Presentation  
+
+How energy changes month to month?
+
+To do
+Everyone – Have a look at the data and come up with a specific goal before our next meeting on 24th March
+
+
+Next meeting 
+Sunday 22nd March at 6 ‘O’ Clock
