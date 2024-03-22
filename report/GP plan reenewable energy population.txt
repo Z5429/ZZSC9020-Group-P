@@ -1,0 +1,11 @@
+Renewable energy.
+One of the areas we would like to concentrate is to look at the effect of renewable energy installations on the energy market. According to the Clean Energy Council, in 2022, 35.9% of Australia’s electricity generation was through renewable energy. This was up from 32.5% in 2021.
+Not only is a large proportion of electricity generation from renewables, but it’s share is still growing strongly. Most generation, through hydroelectric plants and solar and wind farms goes through the grid and is accounted for in the national energy market. (Another section of the proposal will talk about the NEM).
+However, private solar power generation feed the individuals house and reduces it requirement to draw power from the grid. This affect will change through the day. At nighttime, all houses will draw from the grid or a battery supply (the figures for this are not available to this project).
+We wish to add the solar power generation data per month to the model to see if it influences energy demand in the market. We have data from the Clean Energy Council, going back to 2001 showing monthly installs by MW for all post codes. We will use this to find monthly increase in solar energy per month per state. This should show how any energy forecasting model is changing as energy generation changes.
+
+Population
+The information supplied for the project contains energy consumption over time and weather data over time. Another factor that should change electricity consumption needs is population growth.
+Figures from the Australian Bureau of Statistics show an increase from 19.2 million to just below 26 million people in Australia from March 2000 to June 2022. This information is available at quarterly intervals but can be extrapolated over whatever time interval we run our models on. 
+
+

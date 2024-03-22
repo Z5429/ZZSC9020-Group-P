@@ -1,0 +1,8 @@
+Discussion of questions for agenda meeting 22/3 with Sonit Singh
+
+1. Template for 35 page report.
+
+2. Is it alright to use Word for the report. If Jupyter is used for developing, is this still alright?
+	Scientific report or code + report
+
+3. How much do we have to adhere to the project plan.
