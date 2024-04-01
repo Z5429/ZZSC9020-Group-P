@@ -1,0 +1,26 @@
+Minutes of the meeting
+27th March 2024
+Between 6.00 PM to 7.30 PM
+
+Attendees
+  Liam Walsh
+  Sreedevi Nandakumar
+  John D’Souza
+  Mina Mariano
+	
+
+- The team reviewed the minutes of the last meeting.
+- The team also locked in the focus on NSW data and also the use of Jupyter notebook for collaboration.
+- The team reflected on the provided feedback on Assignment 1A.
+- The team also reviewed the Motivation and decided to have the second paragraph to discuss more about the new goal.
+- Sreedevi also have provided an overview of her data analysis on the given dataset.
+- Liam emphasized the focus on the PV cells as the focus on the distributed energy sources affecting the changes of electricity demand.
+- The team also discussed if there will be a biased analysis because we may miss other factors that can affecting the electricity demand.
+- The team also decided to have some draft on Jupyter.
+
+To do
+Mina - Provide a suggested paragraph for the Motivation.
+All - Continue to conduct analysis on the datasets and also work on drafts for Jupyter notebook.
+
+Next meeting 
+Wednesday 1st April at 18:00H
