@@ -1,0 +1,28 @@
+Minutes of the meeting
+4th April 2024
+Between 8.00 PM to 9.00 PM
+
+Attendees
+  Liam Walsh
+  Sreedevi Nandakumar
+  John D’Souza
+  Mina Mariano
+	
+
+- The team reviewed the minutes of the last meeting.
+- The team discussed which modelling techniques will be used in the followibng week.
+- Linear models, FCC neural networks were suggested as well as ARIMA and facebook tools.
+- John brought up that we need more refeences in our report pertaining to model seletions.
+	We all need to focus on this.
+Over next few days, Sreediva to beging models when Liam has provided the colsolidated dataset.
+Mina to look into other modelling options available in facebook and John to conrtinue getting first part of report ready.
+
+To do
+Liam - Provide consolidated dataframe for modelling.
+Liam - Minutes.
+Sreedevi - Look into ARIMA regression.
+John - Obtain more references for motivation and introductions.
+Mina - Look at analysis of data in facebook
+
+Next meeting 
+Sunday 7 April at 18:00H
