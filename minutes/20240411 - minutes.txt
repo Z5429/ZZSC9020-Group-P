@@ -1,0 +1,24 @@
+Minutes of the meeting
+11th April 2024
+Between 8.00 PM to 9.30 PM
+
+Attendees
+  Liam Walsh
+  Sreedevi Nandakumar
+  John D’Souza
+
+	
+
+- The team reviewed the minutes of the last meeting.  
+- The team discussed the focus of the models so the follow the same idea. Look at more time based funcrtions in Neural network to match results from 
+ARIMA. Look at ARIMA max to add more variables to matcjh other models and facebook prophet which has season functionality that may be useful in 
+modelling demand.
+
+
+To do
+Liam - Keep working on Neural Network model, change input variable names, write minutes.
+John - Keep working on report,  Start on linear model with Sreediva
+Sreedevi - Facebook prophet and ARIMA max model.
+
+Next meeting 
+Friday 12th April at 19:00H
