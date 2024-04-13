@@ -1,0 +1,28 @@
+Minutes of the meeting
+24th March 2024
+Between 6.00 PM to 7.30 PM
+
+Attendees
+  Liam Walsh
+  Sreedevi Nandakumar
+  John D’Souza
+  Mina Mariano
+	
+
+- The team reviewed the minutes of the last meeting.
+- We welcomed Mina to Group P
+- Collectively, we discussed options for a clear set of goals for our project, the variables and potential datasets and granularity of data.
+- John shared some material from AEMO's Electricity Demand Forecasting approach document.
+- The team decided to narrow the goal to analysing the impact of Solar PV (distributed energy) installation capacity on short term electricity demand (0 to 5 years) considering variables such as temperature, population, Solar PV capacity and GDP (as a potential econometric variable).  Initial focus will be on NSW data and then the model will run for other regions.
+
+To do
+John - Source suitable GDP data for including in the project
+John - Unzip and concatenate supplied raw  datasets that have been split into parts.  Share this on GitHub.
+Sreedevi - Prepare a suitable Temperature dataset, aggregating values to monthly, showing maximum and minimum temperatures per month.
+Mina - Prepare a suitable Total Demand dataset, aggregating values to monthly, showing maximum and minimum total demand per month.
+Liam - Prepare a suitable Solar PB dataset, aggregating values to monthly, showing Solar PV installed capacity per month.
+Liam - Summarise the Project goal and motivation and share with the team on Monday 25th on Teams.  Once we are happy with the summary, we shall share this with Sonit for feedback.
+All - conduct analysis on these datasets
+
+Next meeting 
+Wednesday 27th March at 8 ‘O’ Clock

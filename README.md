@@ -12,6 +12,7 @@ Complete the information below regarding your group.
 - z5389733 - John D'Souza
 - z3444815 - Sreedevi Nandakumar
 - z5439207 - Liam Walsh
+- z5337974 - Mina Mariano
 
 ### Brief project description
 

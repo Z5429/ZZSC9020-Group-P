@@ -1,0 +1,78 @@
+Meeting 5th April 2024
+
+Attendees
+  Liam Walsh
+  John D’Souza
+  Mina Mariano
+  Sreedevi Nandakumar
+  Sonit Singh
+
+Feedback on the project.
+
+Notebook – Just do a brief.
+
+Word Document – More explanation based on the results.
+
+John showed the data to Sonit. Put the reference in the dataset in the Jupyter notebook and in the report.
+Does Sonit should be able to run the report? We will have to run all the cells and then add it to the Repository.
+High level introduction with section headings and then we need to put in the Jupyter notebook. Then in the report we should have more explanation and the reasoning.
+
+Introduction – Bigger picture (1.5 Pages)
+Energy and where is the gap?
+
+Literature Review:
+3 or 4 research paper
+
+Literature review: 3-4 pages (High level) – Give some background information and then provide information on different methods that people have utilised 
+2-3 papers and with what they have done?
+
+Then go into your focus. 
+Explain what Machine Learning is and make a story from what they have done.
+
+Material and Methods (1 Page)
+An overview of datasets? What are their sources? And the motivation for selecting the data?
+
+EDA 
+What is the most uimportant information you need to include in the report?
+Have the plots and describe what you can infer from the plots?
+
+Modelling
+What type of model and what are the measures used in th model.
+Table 1 shows the results
+As you can see from Table1 
+We can overlay the values with the predicted values and see how each model is performing.
+Where things are going good?
+
+Once you finish the modelling, we can have the discussion.
+
+Discussion
+
+If we have more time what we can improve.
+I will give you all the data.
+
+Section heading should be specific.
+
+Feature seelction
+Get the weight of independent variable(GDP).
+Scikit Learn – Recursive feature elimination (https://stackoverflow.com/questions/47688734/recursive-feature-elimination-rfe-sklearn)
+
+Correlation – When we do the correlation we are trying to see if the parameter is related to just Demand.
+But when we do the modelling, it will give us the information about how the each parameteris affecting the whole modelling.
+
+First we will doa model with one parameter.
+Once you prove it - compare it with other models.
+
+In the report we can make nice table with the RMSE, MAPE, MAD
+Adding more variables is contributing to the model?
+
+EDA should be able to describe how it is influencing our model?
+
+Presentation
+1)	motivation with one slide.
+2)	Significance (1 Slide)
+3)	Data sources
+4)	We don’t need to explain what a linear model or Random Forrest in the presentation.
+5)	A few plots 
+6)	Modelling part (Table)
+7)	Discussion (1 Slide)
+8)	Conclusion(1 Slide)

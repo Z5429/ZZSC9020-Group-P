@@ -1,0 +1,32 @@
+Minutes of the meeting
+1st April 2024
+Between 6.00 PM to 7.20 PM
+
+Attendees
+  Liam Walsh
+  Sreedevi Nandakumar
+  John D’Souza
+  Mina Mariano
+	
+
+- The team reviewed the minutes of the last meeting.  They acknowledged that they'd missed a meeting opportunity with Sonit because it had been booked on Good Friday!
+- John discussed the GDP (GSP) data that he'd obtained and what he'd done in the form of pre-processing and EDA. A decision needed to be taken on the method to be used to interpolate the yearly grain to monthly. John showed a paper from the Victorian Department of Finance that had done fairly complex interpolation of annual GSP numbers into a quarterly grain. He suggested that we adopt a simpler assumption for our project. The team decided to interpolate this data using a simple 1/12th of annual MW formula per month.
+- Liam led the discussion around how the team will consolidate the files containing independent variables into the one file at the per State, per month grain.  All were happy with the conclusion.
+-  The team had sent Sonit Singh their repurposed goals on the previous Wednesday for comment.  They went over Sonit's reply to ensure all feedback was being considered. Based on Sonit's feedback the team decided that the outputs for the project would be a Jupyter Notebook containing all code with markups as well as a more elaborate MS Word document containing the report.  Content could be duplicated across the two outputs.  Also, the team decided that since all datasets were already acquired, we could still utilise all variables in the project.
+- John conveyed that he'd posted a question on Teams to the instructors asking for confirmation about the 'size' of the Literature Review section of the report.  Week 2 Moodle content had indicated 15-30% of report constitutes Literature Review, which implied 5 to 10 pages.  The team were yet to hear from the instructors due to the Easter holiday break.  If this were the case, John felt the team needed to do more work on Literature Review research.  It was decided to wait to hear from the instructors and conduct more research nevertheless.  John suggested he place the Report Template with sub sections on the Teams SharePoint File folder so that everyone could edit the same copy and build out the report.
+- The team decided that individuals would take 'owenership' of sections of the report and collate information provided by others into their section.  Based on this,  John would 'own' the Literature Review and Mina would 'own' the Introduction.  
+- The team used the example of the Project Report prepared for the Machine Learning course as a template for how the Jupyter Notebook and report could look.  Sreedevi shared her Jupyter Notebook from the Machine Learning course to demonstrate what was possible.  John mentioned that he liked the modularisation of code in the form of functions and the logical storing of visualisation image files in subfolders.  The team decided that they would try to structure the end-product in a similar manner but do so towards the end of the project.
+- The team discussed the fact that Demand was a rate (MegaWatts) and should not be aggregated unless it was converted to consumption (MWh).  John discussed what he'd seen about the importance of peak demand to keeping the grid stable.  So it might be worth considering recording maximum daily demand and average daily demand as independent indicators.
+- Sreedevi shared the EDA work she had done on TotalDemand and Temperature.  The team discussed the fact that we could introduce Maximum demand as well as Maximum, Minimum and Mean daily temperatures into the final data set at the monthly grain.  Sreedevi agreed to add these to her dataframe.  Sreedevi asked if she should consider a threshold value and create a variable that represents Temperature over and above the threshold.  The team were not sure what to use as threshold.  Also, Mina asked if we should consider a variable like 'number of days above or below the threshold'.
+- John suggested that even though the project was focussing on data for NSW, we could introduce a few visualisations of data across Australia in the final EDA (to start the story).
+- The team agreed that there would probably be two phases of EDA: one on a per raw dataset basis and another on the consolidated dataset which showed correlations across independent variables, etc.
+
+To do
+Liam - Look into consolidating the files into one dataframe.
+John - Minutes.
+Sreedevi - Add variables to Demand and Temperature.
+John - Produce base Word Document for Report and start populating key sections, especially Literature Review.
+Mina - Add to ata set description in Word Report.
+
+Next meeting 
+Thursday 4 April at 20:00H

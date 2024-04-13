@@ -1,0 +1,29 @@
+Minutes of the meeting
+7th April 2024
+Between 3.00 PM to 4.30 PM
+
+Attendees
+  Liam Walsh
+  Sreedevi Nandakumar
+  John D’Souza
+  Mina Mariano
+	
+
+- The team reviewed the minutes of the last meeting.  
+- The team discussed the progress made on Introduction and Literature Review.  John shared some recent findings and confirmed that there seemed to be a good story around the project's choice of Medium Term Load Forecasting compared to other time horizions.
+- John demonstrated that based on the number of pages recommended by Sonit for Introduction and Literature Review, the report was looking good. 
+- The team decided to incorporate a few more derived variable indicators based on Demand and Temperature based on some literature review research.
+- Sreedevi shared some of her attempts at using the ARIMA model.  This was discussed.
+- The team collaboratively tried to work through the issue of getting started with using Facebook Prophet.
+- John shared a useful Literature Review on the use of Facebook Prophet for MTLF.  
+
+
+To do
+Liam - Add new variables discussed to the dataframe. Run Feed Forward Neural Network model.
+John - Add content to Literature Review. Demonstrate XGBoost Feature Selection and, if possible, use the scikit-learn feature selection module recommended by Sonit.
+Sreedevi - Try out Linear Regression Model. Run Facebook Prophet model.
+John - Produce base Word Document for Report and start populating key sections, especially Literature Review.
+Mina - Add content to Report Intro. Run Facebook Prophet model.
+
+Next meeting 
+Thursday 11th April at 20:00H

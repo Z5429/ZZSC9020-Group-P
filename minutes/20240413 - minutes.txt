@@ -1,0 +1,28 @@
+Minutes of the meeting
+13th April 2024
+Between 4.00 PM to 5:00 PM
+
+Attendees
+  Liam Walsh
+  Sreedevi Nandakumar
+  John D’Souza
+
+Absent
+  Mina Mariano  
+
+	
+- John discussed updates to Feature Selection, including use of scikitlearn RFE method.
+- Team discussed Correlation Matrix implications and story behind that.
+- Sreedevi shared progress with Linear Model and tried using both temp_mean and temp_max as predictors.
+- Liam shared status of LSTM model.
+
+
+To do
+Liam - Keep working on Neural Network model. Work on LSTM.
+John - Clean up Feature Selection and add to Project.ipynb. Add dataset documentation to Project.ipynb.  Review Linear Model once done by Sreedevi.
+Add description of datasets, EDA and feature selection to Word document.
+Sreedevi - Work on Linear Model.  Review LSTM once done by Liam.
+Mina - Start writing up the Dataset descriptions in Word and Project.ipynb. 
+
+Next meeting 
+Sunday 14th April at 20:00H
