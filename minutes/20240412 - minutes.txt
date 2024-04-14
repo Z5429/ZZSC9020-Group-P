@@ -1,0 +1,28 @@
+Minutes of the meeting
+12th April 2024
+Between 8.00 PM to 9.30 PM
+
+Attendees
+  Liam Walsh
+  Sreedevi Nandakumar
+  John D’Souza
+  Mina Mariano
+  Sonit Singh
+
+	
+- In this consultation the Team shared their progress with Sonit by going through their Project Jupyter Notebook and Project Report.
+- Feature Selection was discussed at length.  Sonit suggested that when using the XGBoost Feature Importance method we utilise the results of the 'weight' importance type over the 'gain' and 'cover'.  He suggested we try out the scikitlearn Recursive Feature Evaulation (RFE) method, too.
+- Sonit cautioned about the use of multiple variations of the same predictor.  Team will be using only one variation of a predictor for temperature.
+- We discussed the differences in Peak Demand, Mean Demand and Mean of Max Daily Demand as options for response variable.
+- We sought some guidance on the use of ARIMA.  Sonit provided some guidance and shared some references that pointed to the effective use of ARIMAX and Holt Winter time series models.
+- Sonit provided some guidance on using LSTM.
+
+
+To do
+Liam - Keep working on Neural Network model. Work on LSTM.
+John - Try out ARIMAX and Holt Winter models. Clean up Feature Selection errors pointed out by Sonit.
+Sreedevi - Work on Linear Model.
+Mina - Start writing up the Dataset descriptions in Word and Project.ipynb.  Is prophet still being looked at?
+
+Next meeting 
+Saturday 13th April at 16:00H

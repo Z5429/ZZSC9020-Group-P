@@ -6,7 +6,8 @@ Attendees
   Liam Walsh
   Sreedevi Nandakumar
   John D’Souza
-
+Absent
+  Mina Mariano
 	
 
 - The team reviewed the minutes of the last meeting.  
