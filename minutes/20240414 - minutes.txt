@@ -1,0 +1,35 @@
+Minutes of the meeting
+14th April 2024
+Between 8.00 PM to 9:15 PM
+
+Attendees
+  Liam Walsh
+  Sreedevi Nandakumar
+  John D’Souza
+  Mina Mariano  
+
+	
+- John discussed updates to include new variable, 'degree_days' and results of feature selection and linear regression model.
+- Sreedevi showed results of ensemble model.
+- Team reviewed all models done to date: ARIMAX, Holt Winter, LSTM (i.e., time series); Linear Regression, Linear Ensemble.
+- Decision made that Mina would explore Facebook Prophet. Liam would do a FF NN model. 
+- Decision made to utilise degree_days as time-based predictor.
+
+To do
+Liam 
+  - Do FF NN Model.
+  - **Remember to record the Tuesday 16th team catchup for Mina as she won't be available.
+John 
+  - Create one version of Project.ipynb and model_data.csv and inform team when done. 
+  - Include ARIMAX model in Project.ipynb.  
+  - Add section headings to Word Report.  
+  - Populate ARIMAX model Section in Word Report.
+Sreedevi 
+  - Add Linear Model to Project.ipynb.
+  - Populate Linear Model section in Word Report.
+Mina 
+  - Try running Facebook Prophet Model.
+  - Populate 'Material and Methods' and 'Exploratory Data Analysis' Sections of Word Report. 
+
+Next meeting 
+Tuesday 16th April at 20:00H
