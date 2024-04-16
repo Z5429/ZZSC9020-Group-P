@@ -12,6 +12,9 @@ Absent
 
 - Team reviewed progress on migrating individual models to Project.ipynb.
 - Team reviewed sections of the Project Report Word document.
+- Team has been given 2 days extension for report and video submission based on John's ELS status.  
+      - We will try to finish by Saturday but use Sunday and Monday to review and do data quality.  Sree is on leave on Monday and Tuesday.
+      - We will try to finish the video by Tuesday.
 
 To do
 Liam 
