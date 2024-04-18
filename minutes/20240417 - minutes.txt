@@ -1,0 +1,33 @@
+Minutes of the meeting
+17th April 2024
+Between 8.00 PM to 8:45 PM
+
+Attendees
+  Liam Walsh
+  Sreedevi Nandakumar
+  John D’Souza
+  Mina Mariano  
+
+- Team reviewed progress on migrating individual models to Project.ipynb.
+- Team reviewed sections of the Project Report Word document.
+- Mina presented her output for Prophet model. 
+- Mina present updates to Project Word Report.
+- Team discussed whether to us Normalisation or MinMaxScaling  for all non-timeseries models.
+
+To do
+Liam 
+  - Document LSTM and NN models in Project Report Word document.  
+John 
+  - Create common dataset to feed Linear, Ensemble and NN models in Project.ipynb. 
+  - Document Linear Regression Model and ARIMAX/Holt Winter Models in Project Report Word document. To be used by others as template for their models.
+  - Migrate Facebook Prophet Model to Project.ipynb based on Mina's notebook.   
+  - Add Linear Regression Model to Project.ipynb.  
+  
+Sreedevi 
+  - Add Linear Ensemble and Stacked Models to Project.ipynb.  
+  - Document Linear Ensemble and Stacked Models in Project Report Word document.
+Mina 
+  - Document Facebook Prophet Model and EDA in Project Report Word document. 
+
+Next meeting 
+Thursday 18th April at 18:00H
