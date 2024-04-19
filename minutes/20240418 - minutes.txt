@@ -1,0 +1,31 @@
+Minutes of the meeting
+18th April 2024
+Between 6.00 PM to 7:00 PM
+
+Attendees
+  Liam Walsh
+  Sreedevi Nandakumar
+  John D’Souza
+  Mina Mariano  
+
+- Team reviewed progress on migrating individual models to Project.ipynb.
+- Team reviewed sections of the Project Report Word document.
+- John presented SARIMA model description in Word Report to seek feedback and finalise template. 
+- Team discussed results of models. Sreedevi is to rerun Ensemble models to include RMSE as performance metric.
+
+To do
+Liam 
+  - Document LSTM and NN models in Project Report Word document.  
+John 
+  - Add Linear Regression model to Project.ipynb.
+  - Document Linear Regression Model and SARIMA and Holt Winter Models in Project Report Word document.
+  - Migrate Facebook Prophet Model to Project.ipynb based on Mina's notebook.   
+  
+Sreedevi 
+  - Add Linear Ensemble and Stacked Models to Project.ipynb. Include RMSE as performance metric. 
+  - Document Linear Ensemble and Stacked Models in Project Report Word document.
+Mina 
+  - Document Facebook Prophet Model and EDA in Project Report Word document. 
+
+Next meeting 
+Friday 19th April at 18:00H Consultation with Sonit Singh (instructor)
