@@ -29,3 +29,6 @@ The repository has the following folder structure:
 - minutes: minutes for each meeting (left not more than 24h after the corresponding meeting)
 - report: RMarkdown or Jupyter notebook report in progress
 - src: source code
+
+## Final Project Jupyter Notebook
+All code for this project can be found in Project.ipynb
