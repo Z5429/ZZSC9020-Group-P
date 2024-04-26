@@ -1,6 +1,6 @@
 # Welcome to ZZSC9020 GitHub repository for Group P
 
-This GitHub repository is the main point of access for students and lecturers of the ZZSC9020 capstone course. 
+This GitHub repository is the main point of access for Group P students and lecturers of the ZZSC9020 capstone course. 
 
 In this repository, you will find the data to start developing your project. Also, we will use the repository to share code, documentation, data, models and other resources between the group members and course lecturers.
 
